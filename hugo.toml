@@ -15,7 +15,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Giulia"
       introSubtitle = "Trying to make this thing work"
-      introPhoto = "/picture.jpg"
+      introPhoto = "/Waaa.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
